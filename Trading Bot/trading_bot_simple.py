@@ -28,7 +28,7 @@ from sklearn.preprocessing import StandardScaler
 
 
 # Environment setup: Simulation of stock data
-# Only using AAPL (Apple), MSI (Motorola), SBUX (Starbucks)
+# Only using AAPL (Apple), MSI (Motorola), SBUX (Starbucks) stocks
 def get_data():
     # Returns a T x 3 list of stock prices: [AAPL_price, MSI_price, SBUX_price]
     df = pd.read_csv('./aapl_msi_sbux.csv')
