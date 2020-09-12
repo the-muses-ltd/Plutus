@@ -11,5 +11,5 @@ ARIMA models have historically shown proficiency at time-series prediction so th
 Using deep Convolutional Neural Networks to train AI on trading decision making. Showing reasonably accurate results, but further optimisation needed to get consistent real world results.
 ## 3. Deep Reinforcement Learning: Deep Q-Learning with LSTM
 Audmenting a Deep Q-Learning NN with a Long Short-Term Memory Neural Network: Still in Development
-## 4. Bayesian augmented ARIMA
+## 4. Bayesian augmented autotuned ARIMA
 Conceptual Stage
