@@ -5,11 +5,13 @@ Our initial goal is to create a zero fee automated investing strategy for non-pr
 This will fascilitate the a longer term postive effect of charitable funds for organisations aimed at improving social welfare.
 
 # Currently Running Experiments
-## 1. ARIMA Modeling (Autoregressive integrated moving average)
+## 1. ARIMA Modeling (Autoregressive Integrated Moving Average)
 ARIMA models have historically shown proficiency at time-series prediction so this is our baseline.
-## 2. Deep Reinforcement Learning: Deep Q-Learning
+## 2. VAR Modeling (Vector Autoregression)
+VAR is our secondary baseline model. VAR is a model in which we have not a single dependent variable, but rather a system of equations in which each variable is the dependent variable in one equation, with the independent variables in each equation being the lagged values of all of the variables.
+## 3. Deep Reinforcement Learning: Deep Q-Learning
 Using deep Convolutional Neural Networks to train AI on trading decision making. Showing reasonably accurate results, but further optimisation needed to get consistent real world results.
-## 3. Deep Reinforcement Learning: Deep Q-Learning with LSTM
+## 4. Deep Reinforcement Learning: Deep Q-Learning with LSTM
 Audmenting a Deep Q-Learning NN with a Long Short-Term Memory Neural Network: Still in Development.
-## 4. Bayesian augmented autotuned ARIMA
+## 5. Bayesian augmented autotuned ARIMA
 Conceptual Stage.
