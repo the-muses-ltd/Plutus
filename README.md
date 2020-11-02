@@ -15,3 +15,18 @@ Using deep Convolutional Neural Networks to train AI on trading decision making.
 Audmenting a Deep Q-Learning NN with a Long Short-Term Memory Neural Network: Still in Development.
 ## 5. Bayesian augmented autotuned ARIMA
 Conceptual Stage.
+
+
+# Results:
+
+## ARIMA Model
+We were able to set a reasonable baseline for exhcange rate trading, by acqiring a 99.4% in sample MAPE in sample and 95.6% accuracy rate out of sample when predicting exchange rates using an ARIMA(0,1,1) model.
+
+Forecast graph
+
+Error Graph
+
+## VAR Model
+We were able to show statistically significant results for modelling and predicting multiple time series variables using a single Structural VAR Model. The structural component (the impact matrix) was claculated using the Cholesky decomposition method. We were able to simaltaneously model 3 economic variables in our SVAR model.
+
+IRF Graphs
