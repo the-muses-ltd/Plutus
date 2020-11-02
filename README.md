@@ -16,7 +16,7 @@ This will fascilitate the a longer term postive effect of charitable funds for o
 ARIMA models have historically shown proficiency at time-series prediction so this is our baseline.
 
 Results:
-We were able to set a reasonable baseline for exhcange rate trading, by achieving a 99.4% accuracy rate and 95.6% accuracy rate out of sample when predicting exchange rates using an ARIMA(0,1,1) model.
+We were able to set a reasonable baseline for exhcange rate trading, by achieving a 99.4% in sample accuracy rate and 95.6% accuracy rate out of sample when predicting exchange rates using an ARIMA(0,1,1) model.
 
 ![Forecast](https://github.com/the-muses-ltd/Plutus/blob/master/Assets/Forecast.png)
 
