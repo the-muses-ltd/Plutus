@@ -5,6 +5,13 @@ Our initial goal is to create a zero fee automated investing strategy for non-pr
 This will fascilitate the a longer term postive effect of charitable funds for organisations aimed at improving social welfare.
 
 # Currently Running Experiments
+
+1. ARIMA Modeling (Autoregressive Integrated Moving Average)
+2. VAR Modeling (Vector Autoregression)
+3. Deep Reinforcement Learning: Deep Q-Learning
+4. Deep Reinforcement Learning: Deep Q-Learning with LSTM
+5. Bayesian augmented autotuned ARIMA
+
 ## 1. ARIMA Modeling (Autoregressive Integrated Moving Average)
 ARIMA models have historically shown proficiency at time-series prediction so this is our baseline.
 
