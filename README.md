@@ -35,4 +35,4 @@ We have shown extremely positive results from Reinforement learning models and s
 
 Results of A2C Algorithm:
 
-<!-- ![IRF](https://github.com/the-muses-ltd/Plutus/blob/master/Assets/Impulse%20Response%20Functions.png) -->
+![ROI](https://github.com/the-muses-ltd/Plutus/blob/master/Assets/ROI.png)
