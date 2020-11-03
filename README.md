@@ -30,9 +30,9 @@ We were able to show statistically significant results for modelling and predict
 
 ![IRF](https://github.com/the-muses-ltd/Plutus/blob/master/Assets/Impulse%20Response%20Functions.png)
 
-## 3. Deep Reinforcement Learning: Deep Q-Learning
-Using deep Convolutional Neural Networks to train AI on trading decision making. Showing reasonably accurate results, but further optimisation needed to get consistent real world results.
-## 4. Deep Reinforcement Learning: Deep Q-Learning with LSTM
-Audmenting a Deep Q-Learning NN with a Long Short-Term Memory Neural Network: Still in Development.
-## 5. Bayesian augmented autotuned ARIMA
-Conceptual Stage.
+## 3. Deep Reinforcement Learning: Advantage Actor Critic (A2C)
+We have shown extremely positive results from Reinforement learning models and specifically the Advantage Actor Critic (A2C) method. Showing consistent profits in stock market trading even without extensive tuning of the system.
+
+Results of A2C Algorithm:
+
+<!-- ![IRF](https://github.com/the-muses-ltd/Plutus/blob/master/Assets/Impulse%20Response%20Functions.png) -->
