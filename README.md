@@ -33,6 +33,6 @@ We were able to show statistically significant results for modelling and predict
 ## 3. Deep Reinforcement Learning: Advantage Actor Critic (A2C)
 We have shown extremely positive results from Reinforement learning models and specifically the Advantage Actor Critic (A2C) method. Showing consistent profits in stock market trading even without extensive tuning of the system.
 
-Results of A2C Algorithm:
+Results of A2C Algorithm over a 5 year period:
 
 ![ROI](https://github.com/the-muses-ltd/Plutus/blob/master/Assets/ROI.png)
